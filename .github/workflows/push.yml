@@ -55,4 +55,4 @@ jobs:
           context: . #where the docker file should look for 
           push: true #f true, updates will be pushed to the docker account 
           platforms: linux/amd64, linux/arm64
-          tags: KarAda-1rst/fast-api-docker-example:latest
+          tags: karada1/fast-api-docker-example:latest
